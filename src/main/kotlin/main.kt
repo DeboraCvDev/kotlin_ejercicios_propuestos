@@ -1,5 +1,5 @@
 fun main(){
-    var numeroMayor: Int = 0
+    var numeroMayor: Int =0
     var numeroMenor: Int = 0
 
     tituloPrincipal()
